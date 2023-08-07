@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'WebAppSiman'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_81C156A9FC56406FB0A73F4987242890 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD8D23CA2DFC4C9D848A273A07E1825F }}
